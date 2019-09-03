@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1738d35-8a64-4a0e-aa96-91a4f4742286" name="Default Changelist" comment="" />
+    <list default="true" id="b1738d35-8a64-4a0e-aa96-91a4f4742286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,9 @@
   <component name="ProjectId" id="1PxWdmSd2te0Zooqfpnm5q1lajW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vuejs-resource" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -58,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1566816317308</updated>
       <workItem from="1566816319026" duration="892000" />
+      <workItem from="1566820612626" duration="754000" />
+      <workItem from="1566977382983" duration="31000" />
     </task>
     <servers />
   </component>
@@ -69,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
